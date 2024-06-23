@@ -10,7 +10,7 @@ module.exports = {
   },
 
   Image: {
-    background: process.env.BACKGROUND_URL || "https://cdn.discordapp.com/attachments/1098969636306960465/1157152464320090212/madevytragic.png",
+    background: process.env.BACKGROUND_URL || "image link cdn",
     titlemessagecolor: "#fff474",
     welcomeDescription: "Let's play and chit chat together!!",
     farewellDescription: "See you soon, We'll miss you!",
@@ -22,7 +22,7 @@ module.exports = {
 
     Presence: {
         status: "idle", //Put your bot status here (online, idle, dnd, invisible)
-        activity: "Made by Tragic", //Put your bot activity here (playing, streaming, listening, watching)
+        activity: "Made by Lights.out.#0", //Put your bot activity here (playing, streaming, listening, watching)
         type: "WATCHING", //Put your bot activity type here (PLAYING, STREAMING, LISTENING, WATCHING)
     },
 }
