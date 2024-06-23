@@ -49,9 +49,9 @@ Rest of the configurations can be done according to your wish in the `config.js`
 
 <br>
 
-## Support Server
-
-[![Server Invite](https://discordapp.com/api/guilds/1210364441774788668/embed.png?style=banner2)](https://discord.com/invite/PqVQgXTweC)
+<a href="https://discord.com/invite/PqVQgXTweC">
+  <img src="https://invidget.switchblade.xyz/PqVQgXTweC" alt="Discord Server">
+</a>
 
 ## Dependencies
 
