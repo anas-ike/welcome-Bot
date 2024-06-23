@@ -47,6 +47,11 @@ To configure the bot, you need to provide the following details in the `config.j
 
 Rest of the configurations can be done according to your wish in the `config.js` file.
 
+<br>
+
+## Support Server
+
+[![Server Invite](https://discordapp.com/api/guilds/1210364441774788668/embed.png?style=banner2)](https://discord.com/invite/PqVQgXTweC)
 
 ## Dependencies
 
